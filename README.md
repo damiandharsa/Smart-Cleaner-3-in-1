@@ -42,3 +42,7 @@ Karena pandemi COVID-19 kami terpaksa menghentikan project ini.
 
 # Notes
 1. Dalam video dokumentasi, saya ada kesalahan. Yang dimaksud Smoke Detector adalah Dust Sensor.
+2. Kode program Arduino akan diunggah kalau Project ini sudah lebih dari 50% layak dipraktekan
+
+# Documentations
+1. <pre>Uplodaing video</pre>
