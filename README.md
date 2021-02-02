@@ -1,6 +1,8 @@
 # Disclaimer
 Project ini masih tahap pengembangan dan prototipe. Kami menggunakan sumber daya seadanya agar Smart Cleaner ini bisa beroperasi sesuai yang direncanakan terlebih dahulu.
 
+Ukuran asli akan lebih besar daripada ukuran saat ini.
+
 # Contents of this Repository
 Repo ini berisi berkas dan progress Project Smart Cleaner yang saya kerjakan bersama kelompok saya di KSM Teknik Energi.
 
@@ -25,7 +27,7 @@ Smart Cleaner yang kami kerjakan dibuat dan dikembangkan untuk membantu kegiatan
 # Installation
 1. Sumber tegangan 5V dihubungkan dengan DC Booster, lalu output dari DC Booster dihubungkan ke terminal External Power yang ada di L293D.
 2. Atur output dari DC Booster menjadi 7-12V. Usahakan lebih dari 5V supaya DC Motor bisa berputar dalam kecepatan maksimal.
-3. Upload kode Arduino yang telah dibuat
+3. Upload kode Arduino yang telah dibuat.
 
 # Why is This Project Delayed?
 Karena pandemi COVID-19 kami terpaksa menghentikan project ini.
@@ -38,11 +40,11 @@ Karena pandemi COVID-19 kami terpaksa menghentikan project ini.
 
 # To Do
 1. Memasang Ultrasonic Sensor untuk menghindari Smart Cleaner menabrak dinding atau objek lain yang ada di depannya.
-2. Memasang panel surya sebagai pengisi baterai
+2. Memasang panel surya sebagai pengisi baterai.
 
 # Notes
 1. Dalam video dokumentasi, saya ada kesalahan. Yang dimaksud Smoke Detector adalah Dust Sensor.
-2. Kode program Arduino akan diunggah kalau Project ini sudah lebih dari 50% layak dipraktekan
+2. Kode program Arduino akan diunggah kalau Project ini sudah lebih dari 50% layak dipraktekan.
 
 # Documentations
-1. <pre>Uplodaing video</pre>
+[Lihat di Google Drive](https://drive.google.com/drive/folders/1CO8K7rmB4_CI0fVGQtGMxk1W0MKN9mfa?usp=sharing)
